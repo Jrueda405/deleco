@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "783278755038",
+    "firebase_url": "https://deleco-c161a.firebaseio.com",
+    "project_id": "deleco-c161a",
+    "storage_bucket": "deleco-c161a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783278755038:android:53005610c639ab80f7464f",
+        "android_client_info": {
+          "package_name": "co.com.deleco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783278755038-mg7a4s4ln50t5dt6pkrgvn1kvgt1g63c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0zfsaEtl7BI1PNJwZD9kprkq_UjBkQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783278755038-mg7a4s4ln50t5dt6pkrgvn1kvgt1g63c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
